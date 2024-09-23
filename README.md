@@ -68,18 +68,6 @@ npm run serve
 4) Access the app: Open http://localhost:8080 in your browser.
 
 
-# Customization:
-
-- To add more rooms, modify the rooms array in App.vue:
-
-rooms: [
-    { id: 1, name: 'General' },
-    { id: 2, name: 'Technology' },
-    { id: 3, name: 'Random' },
-    { id: 4, name: 'New Room' }  // Add new rooms here
-]
-
-- You can also customize the styling in the corresponding .vue files.
 
 ## Technologies Used:
 - Vue 3: Front-end framework.
