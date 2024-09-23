@@ -68,7 +68,7 @@ npm run serve
 4) Access the app: Open http://localhost:8080 in your browser.
 
 
-## Customization:
+# Customization:
 
 - To add more rooms, modify the rooms array in App.vue:
 
