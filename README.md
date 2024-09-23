@@ -44,6 +44,7 @@ src/
 ├── App.vue
 ├── main.js
 
+```
 
 ## Installation and Setup
 
