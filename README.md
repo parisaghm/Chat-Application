@@ -47,25 +47,25 @@ src/
 
 ## Installation and Setup
 
-1) Clone the repository:
+1. Clone the repository:
 
 ```
 git clone https://github.com/your-username/vue-chat-app.git
 cd vue-chat-app
 ```
 
-2) Install dependencies:
+2. Install dependencies:
 
 ```
 npm install
 ```
 
-3) Run the application:
+3. Run the application:
 
 ```
 npm run serve
 ```
-4) Access the app: Open http://localhost:8080 in your browser.
+4. Access the app: Open http://localhost:8080 in your browser.
 
 
 
